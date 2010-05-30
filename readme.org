@@ -1,0 +1,14 @@
+
+* TextGrad jQuery plugin
+  A plugin to make color gradients in texts.
+
+** "Don't you think it's a silly plugin you have written ?"
+   No I don't /think/ so, I am bloody *sure* of it.
+** "Are you not ashamed of the quality of the code ?"
+   Oh yes I am. It was my first program in javascript, meaning one of
+   my first programs at all. Very nasty. Still, some people seem to
+   use it, so I'm trying to maintain it when I have bug-fix emails
+   from very kind people.
+
+* Doc / Example
+  clone the repo and open the test/test.htm file in a browser.
